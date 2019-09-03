@@ -19,7 +19,7 @@
             width: 23%;
 
             &:last-child {
-            width: 8%;
+                width: 8%;
             }
         }
     }
@@ -28,5 +28,12 @@
         margin-top: 30px;
         margin-left: auto;
         font-size: 36px;
+    }
+
+    .test-warning {
+        text-align: center;
+        margin-top: 40px;
+        font-size: 24px;
+        color: red;
     }
 }
